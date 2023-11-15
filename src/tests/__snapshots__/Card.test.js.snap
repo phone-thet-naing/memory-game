@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`case 1 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="selected"
+  >
+    <img
+      alt=""
+      className="card-face"
+      src="./src/assets/back.svg"
+    />
+    <img
+      alt=""
+      className="card-back"
+      src="/src/assets/back.svg"
+    />
+  </div>
+</div>
+`;
